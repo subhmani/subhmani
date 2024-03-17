@@ -1,10 +1,10 @@
-#Hello there 👋
+# Hello there 👋
 
-##Welcome to my profile.
+## Welcome to my profile
 
 ![28 Projects](https://shields.io/badge/Projects-28-blue) 
 
-#My Skills
+### My Skills
 
 [![](https://img.shields.io/badge/-HTML5-yellow?logo=html5)](#)
 [![](https://img.shields.io/badge/-CSS3-blue?logo=css3)](#)
