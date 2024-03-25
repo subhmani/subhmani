@@ -10,6 +10,7 @@
 [![](https://img.shields.io/badge/-CSS3-blue?logo=css3)](#)
 [![](https://img.shields.io/badge/-JavaScript-red?logo=javascript)](#)
 [![](https://img.shields.io/badge/-jQuery-lightblue?logo=jQuery)](#)
+[![](https://img.shields.io/badge/-ReactJS-coral?logo=react)](#)
 [![](https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap)](#)
 [![](https://img.shields.io/badge/-Canva-gray?logo=canva)](#)
 [![](https://img.shields.io/badge/-Wordpress-gree?logo=wordpress)](#)
